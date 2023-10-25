@@ -2,7 +2,7 @@
 
 In this little project, I was messing around with StatsBomb soccer data. I imagined myself being part of the German Women's national team staff, analyzing the English team right before their finals game in the European Championship 2022.
 
-After finishing my PhD analyzing the NBA, I wanted to look at the sport I played as a teenager again to see what the data and analytics landscape looks like. So keep this in mind, when reading my thoughts and checking my plots here. Basketball-mind switching sports just for fun to check out the incredibly interesting StatsBomb database, hoping to learn something from interdisciplinary application of methods.
+After finishing my PhD analyzing the NBA, I wanted to look at the sport I played as a teenager again, to see what the data and analytics landscape looks like. So keep this in mind, when reading my thoughts and checking my plots here. Basketball-mind switching sports just for fun to check out the incredibly interesting StatsBomb database, hoping to learn something from interdisciplinary application of methods.
 
 
 **Intro thoughts on how to evaluate past performance of England (please keep in mind):**
